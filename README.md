@@ -4,7 +4,7 @@
   </a>
 </div>
 <br/>
-<a href=""><img src=".png?r=a5s" align='right' width=400 alt=""/></a>
+<a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgr5bE6F-zM9IJ1vBbXiZ6GQrbRYRl6uJ-nPUx-X5tlLsMe9bd2CQIhmOS7Apg-4EKfI0&usqp=CAU" align='right' width=400 alt=""/></a>
 
 # 📚 Últimos Proyectos
 <!-- BOOKMARKS:START -->
