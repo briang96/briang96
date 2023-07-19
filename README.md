@@ -8,12 +8,14 @@
 
 # 📚 Últimos Proyectos
 <!-- BOOKMARKS:START -->
-- [1 Tex](https://)
+<!---  [Titulo](https://)
+<!---  [Titulo](https://)
+<!---  [Titulo](https://)
 <!-- BOOKMARKS:END -->
 <br/>
 <hr/>
-📫Para ponerse en contacto conmigo, le invito a comunicarse a través de Linkedin en el siguiente enlace: linkedin.com/in/brianv96. Agradezco de antemano cualquier oportunidad que se presente y espero tener noticias suyas a la brevedad.🎶 <br/>
+📫Para ponerse en contacto conmigo, le invito a comunicarse a través de Linkedin en el siguiente enlace: linkedin.com/in/brianv96.<br/>
 
 <!---
-
+FIN
 --->
