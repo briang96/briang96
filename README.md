@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-    <a href="">
+    <a href="#">
     <img src="portada.svg" style="width: 100%;" alt="Welcome Git">
   </a>
 </div>
