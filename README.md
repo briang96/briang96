@@ -4,7 +4,7 @@
   </a>
 </div>
 <br/>
-<a href=""><img src="https://clientes.briangarcia.com.ar/templates/lagom2/assets/img/logo/logo_big.1623373951.png" align='right' width=400 alt=""/></a>
+<a href=""><img src="" align='right' width=400 alt=""/></a>
 
 # 📚 Últimos Proyectos
 
